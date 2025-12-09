@@ -66,5 +66,8 @@ dependencies {
     implementation("androidx.room:room-ktx:2.8.4")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
+    implementation("androidx.compose.material:material-icons-extended:1.6.0")
+
 
 }
